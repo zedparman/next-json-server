@@ -1,0 +1,34 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "title": "HTML",
+      "description": "A Markup Language"
+    },
+    {
+      "id": 2,
+      "title": "CSS",
+      "description": "Cascade Style Sheet"
+    },
+    {
+      "title": "sdcF",
+      "description": "sVFx",
+      "id": 3
+    },
+    {
+      "title": "dacsVF",
+      "description": "gfhxfgnbgc",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
